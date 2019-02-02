@@ -1,0 +1,5 @@
+/* select all first level children */
+
+& > :nth-child(n) {
+  align-self: center;
+}
